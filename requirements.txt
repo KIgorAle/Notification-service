@@ -1,0 +1,8 @@
+celery==5.2.7
+Django==4.2
+django-celery-results==2.5.1
+djangorestframework==3.14.0
+psycopg2==2.9.6
+PyYAML==6.0
+uritemplate==4.1.1
+requests==2.30.0
